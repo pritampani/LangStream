@@ -1,0 +1,11 @@
+Flask
+flask-cors
+werkzeug
+ffmpeg-python
+assemblyai
+gtts
+langchain
+langchain-google-genai
+yt-dlp
+python-dotenv
+pydub
